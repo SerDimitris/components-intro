@@ -1,3 +1,6 @@
+/*
+ * A component to set the logo of the app. The className is Tailwind.
+ */
 const CodingFactoryLogo = () => {
     return (
         <>
